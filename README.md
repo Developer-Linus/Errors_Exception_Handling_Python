@@ -1,7 +1,7 @@
 # Errors and Exception Handling in Python
 - In programming, errors are inevitable. In Python, errors can be classified as:
 (a) **Syntax errors**: Occur due to violation of Python's grammar rules. The program will not run at all because they're flagged during compilation phase. <br>
-(b) **Exceptions errors**: Are runtime errors during program execution that arise during program execution. They indicate unexpected situations that the program encounters. Exceptions allow you to write code that can gracefully handle these situations and prevent program crashes. 
+(b) **Exceptions errors**: Are runtime errors during program execution that arise during program execution. They indicate unexpected situations that the program encounters. Exceptions allow you to write code that can gracefully handle these situations and prevent program crashes. This type of error occurs whenever **syntactically** correct Python code results in an error.
 ## Understanding Python Errors
 ### (a) Common Syntax Errors
 - missing colons (:) after statements.
